@@ -1,0 +1,5 @@
+{
+  "extends": "@ongaku/tsconfig/vite.json",
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["**/*.gen.*"],
+}
