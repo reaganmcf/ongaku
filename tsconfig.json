@@ -1,0 +1,3 @@
+{
+    "extends": "@ongaku/tsconfig/base.json"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@ongaku/api",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bun run --watch src/index.ts"
+  },
+  "dependencies": {
+    "@elysiajs/openapi": "^1.3.12",
+    "elysia": "latest"
+  },
+  "devDependencies": {
+    "@ongaku/tsconfig": "*",
+    "bun-types": "latest"
+  },
+  "module": "src/index.js"
+}
